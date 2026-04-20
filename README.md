@@ -6,6 +6,10 @@
 
 A clean and responsive language translation web app built with HTML, CSS, and vanilla JavaScript. The project lets users type text, auto-detect the source language, choose a target language, and get instant translations directly in the browser.
 
+## Live Demo
+
+[View the deployed project](https://aman-2346.github.io/Language-translation-tool/)
+
 ## Features
 
 - Real-time translation as the user types
@@ -95,7 +99,7 @@ Then open `http://localhost:5500` in your browser.
 - Add copy-to-clipboard support for translated text
 - Save dark mode and selected languages in local storage
 - Enable document upload and translated file download
-- Deploy the app with GitHub Pages
+- Add a custom domain or improve the deployment workflow
 
 ## Why This Project
 
